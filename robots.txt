@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://cuopsoi.github.io/sitemap/sitemap.txt
